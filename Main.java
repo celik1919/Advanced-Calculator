@@ -112,6 +112,8 @@ public class Main {
                 case 8:
                     area(a, b);
                     break;
+                default:
+                    System.out.println("You made an invalid choice!");
             }
         }
         System.out.println("Güle Güle!");
